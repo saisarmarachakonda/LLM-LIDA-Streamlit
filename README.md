@@ -18,7 +18,7 @@ To install and run the project locally, follow these steps:
 
 1. **Clone the Repository:**
 
-git clone https://github.com/your-repository/question-based-graph-llm.git
+git clone question-based-graph-llm.git
 
 
 2. **Navigate to the Project Directory:**
@@ -38,7 +38,7 @@ To use the application:
 Here are some examples of graphs created by the system:
 
 1. **Graph 1:**
-![Example Graph 1](filename1.png)
+![Example Graph 1](filename.png)
 *Description of Graph 1.*
 
 2. **Graph 2:**
