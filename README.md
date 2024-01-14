@@ -42,7 +42,7 @@ Here are some examples of graphs created by the system:
 *Description of Graph 1.*
 
 2. **Graph 2:**
-![Example Graph 2](filename2.png)
+![Example Graph 2](filename1.png)
 *Description of Graph 2.*
 
 ## Contributing
